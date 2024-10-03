@@ -1,4 +1,5 @@
 //Modules
+
 import gptAvatar from "@/assets/gpt-avatar.svg";
 import warning from "@/assets/warning.svg";
 import user from "@/assets/user.png";
@@ -22,6 +23,7 @@ import {
 import ReactMarkdown from 'react-markdown'
 import { Instructions } from "../Layout/Instructions";
 import { useAPI } from "@/store/api";
+import Stack;
 
 export interface ChatProps { };
 

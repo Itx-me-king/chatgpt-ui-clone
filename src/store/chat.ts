@@ -47,7 +47,7 @@ const initialChatState: Chat[] = getSafeSavedChats() || [
             },
             {
                 emitter: "gpt",
-                message: "This website is a clone of the ChatGPT website interface created by @WesleyMaik.\n\nYou can also send commands to the original site, with the help of the official ChatGPT API."
+                message: "This website is a clone of the ChatGPT website interface created by balloonflame7.\n\nYou can also send commands to the original site, with the help of the official ChatGPT API."
             }
         ],
     },
@@ -57,7 +57,7 @@ const initialChatState: Chat[] = getSafeSavedChats() || [
         content: [
             {
                 emitter: "user",
-                message: "Follow me on \nTwitter [@euwesleymaik](https://twitter.com/euwesleymaik)\nInstagram [eumaik_](https://instagram.com/eumaik_)\nGitHub [WesleyMaik](https://github.com/wesleymaik)"
+                message: "Follow me on \nTwitter [balloonflame7](https://twitter.com/balloonflame7)\nInstagram [balloonflame7](https://instagram.com/balloonflame7)\nGitHub [Itx-me-king](https://github.com/itx-me-king)"
             },
             {
                 emitter: "gpt",
